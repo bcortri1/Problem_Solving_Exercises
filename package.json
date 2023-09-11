@@ -1,0 +1,15 @@
+{
+    "name": "problem_solving_exercises",
+    "version": "1.0.0",
+    "description": "",
+    "main": "average-pair.js",
+    "jest": {
+        "verbose": true,
+        "silent": false
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "",
+    "license": "ISC"
+}
